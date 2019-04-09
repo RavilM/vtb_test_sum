@@ -1,0 +1,12 @@
+{
+  "name": "@vtb/vtb_test_sum",
+  "dependencies": {
+    "jest": "22.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testURL": "http://localhost/"
+  }
+}
